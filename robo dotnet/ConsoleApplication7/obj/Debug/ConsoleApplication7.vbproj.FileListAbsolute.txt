@@ -1,0 +1,23 @@
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.xml
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\Interop.LCC11.dll
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.vbproj.ResolveComReference.cache
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.Resources.resources
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.vbproj.GenerateResource.Cache
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.xml
+c:\users\wallace.costa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+S:\TECNOLOGIA DA INFORMAÇÃO\Darlene\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+S:\TECNOLOGIA DA INFORMAÇÃO\Darlene\ConsoleApplication7\ConsoleApplication7\obj\Debug\Interop.LCC11.dll
+S:\TECNOLOGIA DA INFORMAÇÃO\Darlene\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.vbproj.ResolveComReference.cache
+S:\TECNOLOGIA DA INFORMAÇÃO\Darlene\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+S:\TECNOLOGIA DA INFORMAÇÃO\Darlene\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.xml
+S:\TECNOLOGIA DA INFORMAÇÃO\Darlene\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\anderson.sousa\Desktop\robo dotnet\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\anderson.sousa\Desktop\robo dotnet\ConsoleApplication7\obj\Debug\Interop.LCC11.dll
+C:\Users\anderson.sousa\Desktop\robo dotnet\ConsoleApplication7\obj\Debug\ConsoleApplication7.vbproj.ResolveComReference.cache
+C:\Users\anderson.sousa\Desktop\robo dotnet\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\anderson.sousa\Desktop\robo dotnet\ConsoleApplication7\obj\Debug\ConsoleApplication7.xml
+C:\Users\anderson.sousa\Desktop\robo dotnet\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
